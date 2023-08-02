@@ -13,7 +13,7 @@ Enable Jump Toggle ( press k )
 If you want use, execute it:
 
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/AltLexon/STEEP-STEEPS/main/Script.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MythicalTrashcan/STEEP-STEEPS/main/Script.lua'))()
 ```
 
 Discord Server: https://discord.gg/eJnvgbkc2W
